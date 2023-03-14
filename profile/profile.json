@@ -1,0 +1,98 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "GPA: 7.2/10"
+      ],
+      "degree": "Bachelor of Engineering",
+      "department": "Computer Science Engineering",
+      "duration": "2010-2014",
+      "school_name": "Kalaignar Karunanidhi Institute of technology"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG",
+  "highlighted_projects": [
+    {
+      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
+      "name": "Web app for resturant"
+    },
+    {
+      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": null,
+      "name": "Machine Learning"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Developed a Minimum Viable product to record the hardware specifications of each node and monitor node resource usage in real-time. It is programmed using Linux command lines, Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.",
+      "git_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql",
+      "name": "Linux Cluster Resource Monitoring App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    }
+  ],
+  "name": "Kalaivani KG",
+  "others": [
+    {
+      "bullets": [
+        "Microsoft Azure Fundamentals Professional Certificate(2022)",
+        "IBM Data Analyst Professional Certificate(2022)",
+        "Google IT Automation with Python(2022)",
+        "Oracle Database 11g: SQL Fundamental I(2016)"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments."
+      ],
+      "title": "Awards"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
+      "duration": "2023-present",
+      "title": "Business System Analyst"
+    },
+    {
+      "company": "Gainwell Technologies",
+      "description": "Managed databases required for non-production and production usage by adding and removing required records. Supported Azure SQL Team in deployment and delivery standards and processes for new and existing customers which resulted in a smooth delivery.  Effectively managed audits of configuration records that reduced the redundancies between the testing and production environment. Collected and reported data metrics with excel visualization graphs at regular intervals. Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments.",
+      "duration": "2020 - 2021",
+      "title": "Configuration Management"
+    },
+    {
+      "company": "DXC Technology",
+      "description": "Developed skills in performance tuning using EXPLAIN PLAN, AWR, ASH, and ADDM reports. Effectively resolved 3 to 4 Levels 1 and 2 Service Tickets a day simultaneously through different mediums of communication, prioritizing the issues based on their severity. Familiarity with DB Refresh using import/export and data pump utility. Hands-on experience with Golden Gate to manage the replication process. Proactively monitors the Space/Capacity of the database which results in zero downtime. Created new database users as required, and maintained access management, database privileges, and system security. Administered all database elements including tables, clusters, indexes, views, and sequences. Managed batch jobs through Cron.",
+      "duration": "2014 - 2020",
+      "title": "Database Administrator"
+    }
+  ],
+  "skills": {
+    "Business Skills": [
+      "collaboration",
+      "communication",
+      "Organization",
+      "Analytical"
+    ],
+    "Technical Skills": [
+      "RDBMS/SQL",
+      "Python",
+      "Linux/Bash",
+      "Data Analytics",
+      "Agile/Scrum",
+      "Git"
+    ]
+  },
+  "summary": "I graduated with a Bachelor of Engineering in Computer Science. I have around 7 years of experience in the IT industry. Highly skilled in troubleshooting and performance tuning with interaction in data analytics and processes. I offer demonstrated strengths in database management and visualization. I am confident in providing feedback to management that will mitigate risks, identify, and address gaps with source systems and improve processes based on data. I create reports, dashboards, and other visualizations on data associated with customers, and business processes to provide insights to senior management and business in support of decision-making efforts. Besides, I have exceptional communication, interpersonal and analytical skills, very organized, self-motivated, and successful at carrying out tasks individually and in team environments."
+}

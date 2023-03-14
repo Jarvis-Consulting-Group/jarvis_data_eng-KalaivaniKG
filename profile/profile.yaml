@@ -1,0 +1,108 @@
+# Preferred name (Characters only)
+name: "Kalaivani KG"
+# name: "Kalaivani KG"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG
+
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: I graduated with a Bachelor of Engineering in Computer Science. I have around 7 years of experience in the IT industry. Highly skilled in troubleshooting and performance tuning with interaction in data analytics and processes. I offer demonstrated strengths in database management and visualization. I am confident in providing feedback to management that will mitigate risks, identify, and address gaps with source systems and improve processes based on data. I create reports, dashboards, and other visualizations on data associated with customers, and business processes to provide insights to senior management and business in support of decision-making efforts. Besides, I have exceptional communication, interpersonal and analytical skills, very organized, self-motivated, and successful at carrying out tasks individually and in team environments.
+
+
+skills:
+  # Please include 
+  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  #     2) business tools (such as Excel, Viso, etc.)
+  Business Skills:
+    - collaboration
+    - communication
+    - Organization
+    - Analytical
+  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
+  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
+  Technical Skills:
+    - RDBMS/SQL
+    - Python
+    - Linux/Bash
+    - Data Analytics
+    - Agile/Scrum
+    - Git 
+
+# List of Jarvis projects
+# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql"
+    # Focus on BSA work instead of development work
+    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
+    description: Developed a Minimum Viable product to record the hardware specifications of each node and monitor node resource usage in real-time. It is programmed using Linux command lines, Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    # Focus on BSA work instead of development work
+    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+
+# List of personal or academic projects
+# Please focus on transferable skills, such as soft skills and data related skills
+highlighted_projects:
+    #project name
+  - name: "Web app for resturant"
+    #URL is optional
+    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+  - name: "Machine Learning"
+    git_url:
+    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+
+# List of professional experience
+# Please focus on transferable skills, such as soft skills and data related skills
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Business System Analyst"
+    company: "Jarvis"
+    duration: "2023-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
+    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+  - title: "Configuration Management"
+    company: "Gainwell Technologies"
+    duration: "2020 - 2021"
+    description: "Managed databases required for non-production and production usage by adding and removing required records. Supported Azure SQL Team in deployment and delivery standards and processes for new and existing customers which resulted in a smooth delivery.  Effectively managed audits of configuration records that reduced the redundancies between the testing and production environment. Collected and reported data metrics with excel visualization graphs at regular intervals. Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments." 
+  - title: "Database Administrator"
+    company: "DXC Technology"
+    duration: "2014 - 2020"
+    description: "Developed skills in performance tuning using EXPLAIN PLAN, AWR, ASH, and ADDM reports. Effectively resolved 3 to 4 Levels 1 and 2 Service Tickets a day simultaneously through different mediums of communication, prioritizing the issues based on their severity. Familiarity with DB Refresh using import/export and data pump utility. Hands-on experience with Golden Gate to manage the replication process. Proactively monitors the Space/Capacity of the database which results in zero downtime. Created new database users as required, and maintained access management, database privileges, and system security. Administered all database elements including tables, clusters, indexes, views, and sequences. Managed batch jobs through Cron."
+
+
+#List of edcuation
+education: 
+  - school_name: "Kalaignar Karunanidhi Institute of technology"
+    duration: "2010-2014"
+    degree: "Bachelor of Engineering"
+    department: "Computer Science Engineering"
+    # optional
+    awards_achievements: 
+     - "GPA: 7.2/10"
+  
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Microsoft Azure Fundamentals Professional Certificate(2022)"
+      - "IBM Data Analyst Professional Certificate(2022)"
+      - "Google IT Automation with Python(2022)"
+      - "Oracle Database 11g: SQL Fundamental I(2016)"
+
+  - title: "Awards"
+    bullets:
+      - "Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments."
+  
