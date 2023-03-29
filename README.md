@@ -13,7 +13,7 @@ I graduated with a Bachelor of Engineering in Computer Science. I have around 7 
 Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG)
 
 
-**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql)]: Developed a script to record the hardware specifications of each node and monitor node resource usage in real-time using Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
+**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql)]: Developed a monitoring script to record the hardware specifications of each node and monitor node resource usage in real-time using Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
 
 **Python Data Analytics** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/master/python_data_anlytics)]: Not Started
 
@@ -21,9 +21,9 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]:
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Machine Learning**: 
 
 
 ## Professional Experiences
