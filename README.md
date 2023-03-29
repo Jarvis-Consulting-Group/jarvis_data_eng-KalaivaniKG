@@ -13,7 +13,7 @@ I graduated with a Bachelor of Engineering in Computer Science. I have around 7 
 Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG)
 
 
-**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql)]: Developed a Minimum Viable product to record the hardware specifications of each node and monitor node resource usage in real-time. It is programmed using Linux command lines, Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
+**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql)]: Developed a script to record the hardware specifications of each node and monitor node resource usage in real-time using Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
 
 **Python Data Analytics** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/master/python_data_anlytics)]: Not Started
 
