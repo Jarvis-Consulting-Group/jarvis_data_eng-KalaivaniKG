@@ -10,12 +10,9 @@ I graduated with a Bachelor of Engineering in Computer Science. I have around 7 
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG)
-
-
 **Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql)]: Developed a monitoring script to record the hardware specifications of each node and monitor node resource usage in real-time using Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
 
-**Python Data Analytics** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/master/python_data_anlytics)]: Not Started
+```**Python Data Analytics** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/master/python_data_anlytics)]: Not Started
 
 **Hadoop** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/master/hadoop)]: Not Started
 
@@ -24,7 +21,7 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 **Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]:
 
 **Machine Learning**: 
-
+```
 
 ## Professional Experiences
 
@@ -37,12 +34,10 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 ## Education
 **Kalaignar Karunanidhi Institute of technology (2010-2014)**, Bachelor of Engineering, Computer Science Engineering
-- GPA: 7.2/10
-
 
 ## Miscellaneous
 - Microsoft Azure Fundamentals Professional Certificate(2022)
 - IBM Data Analyst Professional Certificate(2022)
 - Google IT Automation with Python(2022)
 - Oracle Database 11g: SQL Fundamental I(2016)
-- Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments.
+- Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments(2021).
