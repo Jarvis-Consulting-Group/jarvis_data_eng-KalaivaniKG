@@ -6,7 +6,7 @@ I graduated with a Bachelor of Engineering in Computer Science. I have around 7 
 
 **Business Skills:** collaboration, communication, Organization, Analytical
 
-**Technical Skills:** RDBMS/SQL, Python, Linux/Bash, Data Analytics, Agile/Scrum, Git
+**Technical Skills:** RDBMS/SQL, Python, Linux/Bash, Data Analytics, Agile/Scrum, Git, Docker
 
 ## Jarvis Projects
 
