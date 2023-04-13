@@ -1,12 +1,13 @@
 # Kalaivani KG . Jarvis Consulting
 
-I graduated with a Bachelor of Engineering in Computer Science. I have around 7 years of experience in the IT industry. Highly skilled in troubleshooting and performance tuning with interaction in data analytics and processes. I offer demonstrated strengths in database management and visualization. I am confident in providing feedback to management that will mitigate risks, identify, and address gaps with source systems and improve processes based on data. I create reports, dashboards, and other visualizations on data associated with customers, and business processes to provide insights to senior management and business in support of decision-making efforts. Besides, I have exceptional communication, interpersonal and analytical skills, very organized, self-motivated, and successful at carrying out tasks individually and in team environments.
+I graduated with a Bachelor of Engineering in Computer Science. I have around 7 years of experience in the IT industry. Highly skilled in troubleshooting and performance tuning with interaction in data analytics and processes. I offer demonstrated strengths in database management and visualization. I am confident in providing feedback to management that will mitigate risks, identify, and address gaps with source systems and improve processes based on data. I create reports, dashboards, and other visualizations on data associated with customers, and business processes to provide insights to senior management and business in support of decision-making efforts.And I have exceptional communication, interpersonal and analytical skills, very organized, self-motivated, and successful at carrying out tasks individually and in team environments.
+
 
 ## Skills
 
-**Business Skills:** collaboration, communication, Organization, Analytical
+**Business Skills:** Good collaboration, communication, Organization, Data Analytical, Documentation
 
-**Technical Skills:** RDBMS/SQL, Python, Linux/Bash, Data Analytics, Agile/Scrum, Git, Docker
+**Technical Skills:** RDBMS/SQL, Python, Linux/Bash, Agile/Scrum, Git, Docker, IBM Cognos, Power BI
 
 ## Jarvis Projects
 
