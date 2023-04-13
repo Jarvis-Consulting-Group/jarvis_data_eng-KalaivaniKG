@@ -30,4 +30,4 @@ I graduated with a Bachelor of Engineering in Computer Science. I have around 7 
 - IBM Data Analyst Professional Certificate(2022)
 - Google IT Automation with Python(2022)
 - Oracle Database 11g: SQL Fundamental I(2016)
-- Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments(2021).
+- Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments(2021)
