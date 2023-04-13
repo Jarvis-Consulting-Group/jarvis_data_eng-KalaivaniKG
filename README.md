@@ -5,7 +5,7 @@ I graduated with a Bachelor of Engineering in Computer Science. I have around 7 
 
 ## Skills
 
-**Business Skills:** Good collaboration, communication, Organization, Data Analytical, Documentation
+**Business Skills:** Good collaboration, Communication, Organization, Data Analytical, Documentation
 
 **Technical Skills:** RDBMS/SQL, Python, Linux/Bash, Agile/Scrum, Git, Docker, IBM Cognos, Power BI
 
