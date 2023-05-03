@@ -5,17 +5,21 @@ I graduated with a Bachelor of Engineering in Computer Science. I have around 7 
 
 ## Skills
 
-**Business Skills:** Good collaboration, Communication, Organization, Data Analytical, Documentation
+**Business Skills:** Good collaboration, Communication and Team work, Organizational and problem-solving skills, Data Analytical skills, Documentation skill
 
 **Technical Skills:** RDBMS/SQL, Python, Linux/Bash, Agile/Scrum, Git, Docker, IBM Cognos, Power BI
 
 ## Jarvis Projects
 
-**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/masterhttps://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql)]: Developed a monitoring script to record the hardware specifications of each node and monitor node resource usage in real-time using Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
+**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql)]: Developed a monitoring script to record the hardware specifications of each node and monitor node resource usage in real-time using Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
+
+** RDBMS and SQL** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql/sql)]: This project aim to get deep insights into managing relational databases, and manipulating the data contained in them using various DDL and DML commands.Created SQL queries to retrieve data from multiple tables. A PostgreSQL instance using docker was utilized to load sample data and test the results of the queries. Git was used as version control for the project.
+
+**LGS Retail Data Wrangling and Analytics** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/python_data_analytics/psql)]: The project is based on the Gift store, London Gift Shop(LGS). As a Data Engineer, we takes the resposibility to help LGS by analysing customer shopping behaviour. The LGS marketing team will use the analytics to develop targeted marking campaigns (e.g. email, events, target promotions, etc..) to attract new and existing customers.To solve all the business requirement, we used Python, Jupyter Notebook, Pandas Dataframe, Numpy, data warehouse and data analytics.
 
 ## Professional Experiences
 
-**Business System Analyst, Jarvis (2023-present)**: Developed Business and Sofware Requirements Documents with Agile/Scrum methodology.
+**Technical Consultant, Jarvis (2023-present)**: Developed Business and Sofware Requirements Documents with Agile/Scrum methodology. Collaborated with a team using Agile/Scrum methodology to develop various back-end and data projects involving technologies and tools such as Linux, SQL, Java, and Docker
 
 **Configuration Management, Gainwell Technologies (2020 - 2021)**: Managed databases required for non-production and production usage by adding and removing required records. Supported Azure SQL Team in deployment and delivery standards and processes for new and existing customers which resulted in a smooth delivery.  Effectively managed audits of configuration records that reduced the redundancies between the testing and production environment. Collected and reported data metrics with excel visualization graphs at regular intervals.
 
