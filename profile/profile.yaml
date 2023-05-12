@@ -1,0 +1,111 @@
+# Preferred name (Characters only)
+name: "Kalaivani KG"
+# name: "Kalaivani KG"
+# Your GitHub repo root URL
+github_repo_root_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG"
+
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: I graduated with a Bachelor of Engineering in Computer Science. I have around 7 years of experience in the IT industry. Highly skilled in troubleshooting and performance tuning with interaction in data analytics and processes. I offer demonstrated strengths in database management and visualization. I am confident in providing feedback to management that will mitigate risks, identify, and address gaps with source systems and improve processes based on data. I create reports, dashboards, and other visualizations on data associated with customers, and business processes to provide insights to senior management and business in support of decision-making efforts. And I have exceptional communication, interpersonal and analytical skills, very organized, self-motivated, and successful at carrying out tasks individually and in team environments.
+
+skills:
+  # Please include 
+  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  #     2) business tools (such as Excel, Viso, etc.)
+  Business Skills:
+    - Good collaboration
+    - Communication and Team work
+    - Organizational and problem-solving skills
+    - Data Analytical skills
+    - Documentation skill
+  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
+  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
+  Technical Skills:
+    - RDBMS/SQL
+    - Python
+    - Linux/Bash
+    - Docker
+    - Agile/Scrum
+    - Git 
+    - IBM Cognos
+    
+
+# List of Jarvis projects
+# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql"
+    # Focus on BSA work instead of development work
+    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
+    description: Developed a Minimum Viable product to record the hardware specifications of each node and monitor node resource usage in real-time. It is programmed using Linux command lines, Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
+  - name: "Python Data Analytics"
+    git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/python_data_analytics/psql"
+    # Focus on BSA work instead of development work
+    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
+    description: The project is based on analysing the data of London Gift Shop(LGS). As a Data Engineer, we takes the resposibility to help LGS by analysing customer shopping behaviour. The LGS marketing team will use the analytics to develop targeted marking campaigns (e.g. email, events, target promotions, etc..) to attract new and existing customers.To solve all the business requirement, we used Python, Jupyter Notebook, Pandas Dataframe, Numpy, data warehouse and data analytics.
+  - name: "RDBMS and SQL"
+    git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql/sql"
+    description: This project gives deep insights by managing relational databases, and manipulating the data contained in them using various DDL and DML commands.Created SQL queries to retrieve data from multiple tables. A PostgreSQL instance using docker was utilized to load sample data and test the results of the queries. Git was used as version control for the project.
+
+# List of personal or academic projects
+# Please focus on transferable skills, such as soft skills and data related skills
+highlighted_projects:
+    #project name
+  - name: "Data Analysis on Emerging skills"
+    #URL is optional
+    git_url: "https://github.com/KalaivaniKG/IBM-Data-Analyst"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: The project is to analyze data to help identify future skill requirements with the changing technologies for the global IT and business consulting services. As a Data Analyst, we take the responsibility to collecting data from various sources and identifying trends for this year's report on emerging skills. The collected data then analyzed and identify insights and trends. It had been achieved by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases. The scraped data then analyzed through data wrangling technique and statistical technique. Finally all information had been brought together in the form of interactive dashboard using IBM Cognos Analytics tool
+
+ # - name: "Machine Learning"
+  #  git_url:
+   # description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+
+# List of professional experience
+# Please focus on transferable skills, such as soft skills and data related skills
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Technical Consultant"
+    company: "Jarvis"
+    duration: "2023-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
+    description: "Developed Business and Sofware Requirements Documents with Agile/Scrum methodology. Collaborated with a team using Agile/Scrum methodology to develop various back-end and data projects involving technologies and tools such as Linux, SQL, Java, and Docker"
+  - title: "Configuration Management"
+    company: "Gainwell Technologies"
+    duration: "2020 - 2021"
+    description: "Managed databases required for non-production and production usage by adding and removing required records. Supported Azure SQL Team in deployment and delivery standards and processes for new and existing customers which resulted in a smooth delivery.  Effectively managed audits of configuration records that reduced the redundancies between the testing and production environment. Collected and reported data metrics with excel visualization graphs at regular intervals." 
+  - title: "Database Administrator"
+    company: "DXC Technology"
+    duration: "2014 - 2020"
+    description: "Developed skills in performance tuning using EXPLAIN PLAN, AWR, ASH, and ADDM reports. Effectively resolved 3 to 4 Levels 1 and 2 Service Tickets a day simultaneously through different mediums of communication, prioritizing the issues based on their severity. Familiarity with DB Refresh using import/export and data pump utility. Hands-on experience with Golden Gate to manage the replication process. Proactively monitors the Space/Capacity of the database which results in zero downtime. Created new database users as required, and maintained access management, database privileges, and system security. Administered all database elements including tables, clusters, indexes, views, and sequences. Managed batch jobs through Cron."
+
+
+#List of edcuation
+education: 
+  - school_name: "Kalaignar Karunanidhi Institute of technology"
+    duration: "2010-2014"
+    degree: "Bachelor of Engineering"
+    department: "Computer Science Engineering"
+    # optional
+    awards_achievements: 
+   
+  
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Microsoft Azure Fundamentals Professional Certificate(2022)"
+      - "IBM Data Analyst Professional Certificate(2022)"
+      - "Google IT Automation with Python(2022)"
+      - "Oracle Database 11g: SQL Fundamental I(2016)"
+
+  - title: "Awards"
+    bullets:
+      - "Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments.(2021)"
+  
