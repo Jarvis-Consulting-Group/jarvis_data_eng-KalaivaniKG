@@ -10,27 +10,29 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
 # 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: I graduated with a Bachelor of Engineering in Computer Science. I have around 7 years of experience in the IT industry. Highly skilled in troubleshooting and performance tuning with interaction in data analytics and processes. I offer demonstrated strengths in database management and visualization. I am confident in providing feedback to management that will mitigate risks, identify, and address gaps with source systems and improve processes based on data. I create reports, dashboards, and other visualizations on data associated with customers, and business processes to provide insights to senior management and business in support of decision-making efforts. Besides, I have exceptional communication, interpersonal and analytical skills, very organized, self-motivated, and successful at carrying out tasks individually and in team environments.
-
+summary: I graduated with a Bachelor of Engineering in Computer Science. I have around 7 years of experience in the IT industry. Highly skilled in troubleshooting and performance tuning with interaction in data analytics and processes. I offer demonstrated strengths in database management and visualization. I am confident in providing feedback to management that will mitigate risks, identify, and address gaps with source systems and improve processes based on data. I create reports, dashboards, and other visualizations on data associated with customers, and business processes to provide insights to senior management and business in support of decision-making efforts. And I have exceptional communication, interpersonal and analytical skills, very organized, self-motivated, and successful at carrying out tasks individually and in team environments.
 
 skills:
   # Please include 
   #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
   #     2) business tools (such as Excel, Viso, etc.)
   Business Skills:
-    - collaboration
-    - communication
-    - Organization
-    - Analytical
+    - Good collaboration
+    - Communication and Team work
+    - Organizational and problem-solving skills
+    - Data Analytical skills
+    - Documentation skill
   # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
   # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
   Technical Skills:
     - RDBMS/SQL
     - Python
     - Linux/Bash
-    - Data Analytics
+    - Docker
     - Agile/Scrum
     - Git 
+    - IBM Cognos
+    
 
 # List of Jarvis projects
 # Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
@@ -41,13 +43,13 @@ jarvis_projects:
     # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
     description: Developed a Minimum Viable product to record the hardware specifications of each node and monitor node resource usage in real-time. It is programmed using Linux command lines, Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
   - name: "Python Data Analytics"
-    git_url: "/python_data_anlytics"
+    git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/python_data_analytics/psql"
     # Focus on BSA work instead of development work
     # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
-    description: ""
-  - name: "Hadoop"
-    git_url: "/hadoop"
-    description: ""
+    description: The project is based on analysing the data of London Gift Shop(LGS). As a Data Engineer, we takes the resposibility to help LGS by analysing customer shopping behaviour. The LGS marketing team will use the analytics to develop targeted marking campaigns (e.g. email, events, target promotions, etc..) to attract new and existing customers.To solve all the business requirement, we used Python, Jupyter Notebook, Pandas Dataframe, Numpy, data warehouse and data analytics.
+  - name: "RDBMS and SQL"
+    git_url: "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql/sql"
+    description: This project gives deep insights by managing relational databases, and manipulating the data contained in them using various DDL and DML commands.Created SQL queries to retrieve data from multiple tables. A PostgreSQL instance using docker was utilized to load sample data and test the results of the queries. Git was used as version control for the project.
 
 # List of personal or academic projects
 # Please focus on transferable skills, such as soft skills and data related skills
@@ -66,16 +68,16 @@ highlighted_projects:
 # Please focus on transferable skills, such as soft skills and data related skills
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Business System Analyst"
+  - title: "Technical Consultant"
     company: "Jarvis"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: "Developed Business and Sofware Requirements Documents with Agile/Scrum methodology. Collaborated with a team using Agile/Scrum methodology to develop various back-end and data projects involving technologies and tools such as Linux, SQL, Java, and Docker"
   - title: "Configuration Management"
     company: "Gainwell Technologies"
     duration: "2020 - 2021"
-    description: "Managed databases required for non-production and production usage by adding and removing required records. Supported Azure SQL Team in deployment and delivery standards and processes for new and existing customers which resulted in a smooth delivery.  Effectively managed audits of configuration records that reduced the redundancies between the testing and production environment. Collected and reported data metrics with excel visualization graphs at regular intervals. Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments." 
+    description: "Managed databases required for non-production and production usage by adding and removing required records. Supported Azure SQL Team in deployment and delivery standards and processes for new and existing customers which resulted in a smooth delivery.  Effectively managed audits of configuration records that reduced the redundancies between the testing and production environment. Collected and reported data metrics with excel visualization graphs at regular intervals." 
   - title: "Database Administrator"
     company: "DXC Technology"
     duration: "2014 - 2020"
@@ -90,7 +92,7 @@ education:
     department: "Computer Science Engineering"
     # optional
     awards_achievements: 
-     - "GPA: 7.2/10"
+   
   
 others:
     #category
@@ -104,5 +106,5 @@ others:
 
   - title: "Awards"
     bullets:
-      - "Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments."
+      - "Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments.(2021)"
   
