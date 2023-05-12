@@ -1,16 +1,11 @@
 # Kalaivani KG . Jarvis Consulting
 
 I graduated with a Bachelor of Engineering in Computer Science. I have around 7 years of experience in the IT industry. Highly skilled in troubleshooting and performance tuning with interaction in data analytics and processes. I offer demonstrated strengths in database management and visualization. I am confident in providing feedback to management that will mitigate risks, identify, and address gaps with source systems and improve processes based on data. I create reports, dashboards, and other visualizations on data associated with customers, and business processes to provide insights to senior management and business in support of decision-making efforts. And I have exceptional communication, interpersonal and analytical skills, very organized, self-motivated, and successful at carrying out tasks individually and in team environments.
-<<<<<<< HEAD
-=======
-
->>>>>>> e462c5e3b1a72d5742766e8d2d76a39201b9ba54
 
 ## Skills
 
 **Business Skills:** Good collaboration, Communication and Team work, Organizational and problem-solving skills, Data Analytical skills, Documentation skill
 
-<<<<<<< HEAD
 **Technical Skills:** RDBMS/SQL, Python, Linux/Bash, Docker, Agile/Scrum, Git, IBM Cognos
 
 ## Jarvis Projects
@@ -26,20 +21,8 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Data Analysis on Emerging skills** [[GitHub](https://github.com/KalaivaniKG/IBM-Data-Analyst)]: The project is to analyze data to help identify future skill requirements with the changing technologies for the global IT and business consulting services. As a Data Analyst, we take the responsibility to collecting data from various sources and identifying trends for this year's report on emerging skills. The collected data then analyzed and identify insights and trends. It had been achieved by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases. The scraped data then analyzed through data wrangling technique and statistical technique. Finally all information had been brought together in the form of interactive dashboard using IBM Cognos Analytics tool
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-=======
-**Technical Skills:** RDBMS/SQL, Python, Linux/Bash, Agile/Scrum, Git, Docker, IBM Cognos, Power BI
-
-## Jarvis Projects
-
-**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql)]: Developed a monitoring script to record the hardware specifications of each node and monitor node resource usage in real-time using Bash scripts, PostgreSQL, and docker. The SQL instance is used to persist data in the database, scripts gather host hardware info and current host resource usage, and crontab is used to trigger the script every minute.
-
-**RDBMS and SQL** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/linux_sql/sql)]: This project gives deep insights by managing relational databases, and manipulating the data contained in them using various DDL and DML commands.Created SQL queries to retrieve data from multiple tables. A PostgreSQL instance using docker was utilized to load sample data and test the results of the queries. Git was used as version control for the project.
->>>>>>> e462c5e3b1a72d5742766e8d2d76a39201b9ba54
-
-**LGS Retail Data Wrangling and Analytics** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG/tree/develop/python_data_analytics/psql)]: The project is based on the Gift store, London Gift Shop(LGS). As a Data Engineer, we takes the resposibility to help LGS by analysing customer shopping behaviour. The LGS marketing team will use the analytics to develop targeted marking campaigns (e.g. email, events, target promotions, etc..) to attract new and existing customers.To solve all the business requirement, we used Python, Jupyter Notebook, Pandas Dataframe, Numpy, data warehouse and data analytics.
 
 ## Professional Experiences
 
@@ -52,18 +35,11 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 ## Education
 **Kalaignar Karunanidhi Institute of technology (2010-2014)**, Bachelor of Engineering, Computer Science Engineering
-<<<<<<< HEAD
 
-=======
->>>>>>> e462c5e3b1a72d5742766e8d2d76a39201b9ba54
 
 ## Miscellaneous
 - Microsoft Azure Fundamentals Professional Certificate(2022)
 - IBM Data Analyst Professional Certificate(2022)
 - Google IT Automation with Python(2022)
 - Oracle Database 11g: SQL Fundamental I(2016)
-<<<<<<< HEAD
 - Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments.(2021)
-=======
-- Recognized as Star of the Quarter for exemplary performance, seamlessly and effectively delivering on projects commitments(2021)
->>>>>>> e462c5e3b1a72d5742766e8d2d76a39201b9ba54

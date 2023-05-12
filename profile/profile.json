@@ -11,14 +11,9 @@
   "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-KalaivaniKG",
   "highlighted_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
-      "name": "Web app for resturant"
-    },
-    {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": null,
-      "name": "Machine Learning"
+      "description": "The project is to analyze data to help identify future skill requirements with the changing technologies for the global IT and business consulting services. As a Data Analyst, we take the responsibility to collecting data from various sources and identifying trends for this year's report on emerging skills. The collected data then analyzed and identify insights and trends. It had been achieved by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases. The scraped data then analyzed through data wrangling technique and statistical technique. Finally all information had been brought together in the form of interactive dashboard using IBM Cognos Analytics tool",
+      "git_url": "https://github.com/KalaivaniKG/IBM-Data-Analyst",
+      "name": "Data Analysis on Emerging skills"
     }
   ],
   "jarvis_projects": [
